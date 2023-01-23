@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Friburguense/static/css/main.5f75d128.chunk.css",
-    "main.js": "/Friburguense/static/js/main.afe5be0d.chunk.js",
-    "main.js.map": "/Friburguense/static/js/main.afe5be0d.chunk.js.map",
-    "runtime-main.js": "/Friburguense/static/js/runtime-main.a08681ea.js",
-    "runtime-main.js.map": "/Friburguense/static/js/runtime-main.a08681ea.js.map",
+    "main.js": "/Friburguense/static/js/main.5b2f162e.chunk.js",
+    "main.js.map": "/Friburguense/static/js/main.5b2f162e.chunk.js.map",
+    "runtime-main.js": "/Friburguense/static/js/runtime-main.0903b7be.js",
+    "runtime-main.js.map": "/Friburguense/static/js/runtime-main.0903b7be.js.map",
     "static/css/2.efb12bfd.chunk.css": "/Friburguense/static/css/2.efb12bfd.chunk.css",
-    "static/js/2.1594b8d4.chunk.js": "/Friburguense/static/js/2.1594b8d4.chunk.js",
-    "static/js/2.1594b8d4.chunk.js.map": "/Friburguense/static/js/2.1594b8d4.chunk.js.map",
-    "static/js/3.f64d476d.chunk.js": "/Friburguense/static/js/3.f64d476d.chunk.js",
-    "static/js/3.f64d476d.chunk.js.map": "/Friburguense/static/js/3.f64d476d.chunk.js.map",
+    "static/js/2.bd5bde58.chunk.js": "/Friburguense/static/js/2.bd5bde58.chunk.js",
+    "static/js/2.bd5bde58.chunk.js.map": "/Friburguense/static/js/2.bd5bde58.chunk.js.map",
+    "static/js/3.e61a56a5.chunk.js": "/Friburguense/static/js/3.e61a56a5.chunk.js",
+    "static/js/3.e61a56a5.chunk.js.map": "/Friburguense/static/js/3.e61a56a5.chunk.js.map",
     "index.html": "/Friburguense/index.html",
     "static/css/2.efb12bfd.chunk.css.map": "/Friburguense/static/css/2.efb12bfd.chunk.css.map",
     "static/css/main.5f75d128.chunk.css.map": "/Friburguense/static/css/main.5f75d128.chunk.css.map",
-    "static/js/2.1594b8d4.chunk.js.LICENSE.txt": "/Friburguense/static/js/2.1594b8d4.chunk.js.LICENSE.txt",
+    "static/js/2.bd5bde58.chunk.js.LICENSE.txt": "/Friburguense/static/js/2.bd5bde58.chunk.js.LICENSE.txt",
     "static/media/banner.7d59272b.png": "/Friburguense/static/media/banner.7d59272b.png",
     "static/media/blueContainer.496d4d1f.png": "/Friburguense/static/media/blueContainer.496d4d1f.png",
     "static/media/iconFacebook.1c96919d.png": "/Friburguense/static/media/iconFacebook.1c96919d.png",
@@ -32,10 +32,10 @@
     "static/media/soufriburguense.4fc21fbe.png": "/Friburguense/static/media/soufriburguense.4fc21fbe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a08681ea.js",
+    "static/js/runtime-main.0903b7be.js",
     "static/css/2.efb12bfd.chunk.css",
-    "static/js/2.1594b8d4.chunk.js",
+    "static/js/2.bd5bde58.chunk.js",
     "static/css/main.5f75d128.chunk.css",
-    "static/js/main.afe5be0d.chunk.js"
+    "static/js/main.5b2f162e.chunk.js"
   ]
 }
